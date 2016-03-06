@@ -1,4 +1,4 @@
-# DailyProgrammer Challenges
+## DailyProgrammer Challenges
 
 Completed Easy/Intermediate/Hard Challenges from DailyProgrammer.
 
