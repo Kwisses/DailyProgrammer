@@ -1,3 +1,6 @@
 [submodule "Easy/1147f9e3b12f386acfd8"]
 	path = Easy/challenge_1
 	url = https://gist.github.com/1147f9e3b12f386acfd8.git
+[submodule "Easy/10f704792350277885db"]
+	path = Easy/challenge_2
+	url = https://gist.github.com/10f704792350277885db.git
