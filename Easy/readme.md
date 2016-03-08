@@ -1,1 +1,1 @@
-### Completed Easy DailyPromgrammer Challenges
+Completed Easy DailyProgrammer Challenges
