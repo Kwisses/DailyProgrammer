@@ -22,3 +22,9 @@
 [submodule "Easy/cd63ec6df368d6d7a2bc"]
 	path = Easy/challenge_10
 	url = https://gist.github.com/cd63ec6df368d6d7a2bc.git
+[submodule "Easy/b08a393896db08af8d64"]
+	path = Easy/challenge_4
+	url = https://gist.github.com/b08a393896db08af8d64.git
+[submodule "Easy/1c871d640f6b64cb5288"]
+	path = Easy/challenge_5
+	url = https://gist.github.com/1c871d640f6b64cb5288.git
