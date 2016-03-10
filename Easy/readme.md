@@ -1,4 +1,4 @@
-Completed Easy DailyProgrammer Challenges
+#####Completed Easy DailyProgrammer Challenges
 
 Note: Each challenge is a submodule from my uploaded gists.
 
