@@ -100,3 +100,18 @@
 [submodule "Easy/e5028afc78306223e1f6"]
 	path = Easy/challenge-39
 	url = https://gist.github.com/e5028afc78306223e1f6.git
+[submodule "Easy/c44b8fc36c5b2407734b"]
+	path = Easy/challenge-41
+	url = https://gist.github.com/c44b8fc36c5b2407734b.git
+[submodule "Easy/b89ba1dabbce9db513fd"]
+	path = Easy/challenge-44
+	url = https://gist.github.com/b89ba1dabbce9db513fd.git
+[submodule "Easy/a963d071c9c1ae4eec5b"]
+	path = Easy/challenge-45
+	url = https://gist.github.com/a963d071c9c1ae4eec5b.git
+[submodule "Easy/15112cc9444c29c0fa39"]
+	path = Easy/challenge-46
+	url = https://gist.github.com/15112cc9444c29c0fa39.git
+[submodule "Easy/9ba3ea2af420446dfb1f"]
+	path = Easy/challenge-47
+	url = https://gist.github.com/9ba3ea2af420446dfb1f.git
