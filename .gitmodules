@@ -268,3 +268,15 @@
 [submodule "Easy/bebae1a4f3f4d9b8af4a"]
 	path = Easy/challenge-123-2
 	url = https://gist.github.com/bebae1a4f3f4d9b8af4a.git
+[submodule "Easy/0eaf2581ec8781ecea0886efab85ba08"]
+	path = Easy/challenge-124
+	url = https://gist.github.com/0eaf2581ec8781ecea0886efab85ba08.git
+[submodule "Easy/97b4c1e7361233effe2c2fb9690f25b5"]
+	path = Easy/challenge-125
+	url = https://gist.github.com/97b4c1e7361233effe2c2fb9690f25b5.git
+[submodule "Easy/6a65edea1df6969b88434a70f31e3555"]
+	path = Easy/challenge-127
+	url = https://gist.github.com/6a65edea1df6969b88434a70f31e3555.git
+[submodule "Easy/afaff6f11de0e23824a3ff5d7f36d251"]
+	path = Easy/challenge-128
+	url = https://gist.github.com/afaff6f11de0e23824a3ff5d7f36d251.git
