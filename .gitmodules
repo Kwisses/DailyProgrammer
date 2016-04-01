@@ -283,3 +283,6 @@
 [submodule "Easy/69a2e66096341dcb389f538c000a7b05"]
 	path = Easy/challenge-130
 	url = https://gist.github.com/69a2e66096341dcb389f538c000a7b05.git
+[submodule "Easy/1a6c294ef305dd0efeb386c48384efd7"]
+	path = Easy/challenge-131
+	url = https://gist.github.com/1a6c294ef305dd0efeb386c48384efd7.git
