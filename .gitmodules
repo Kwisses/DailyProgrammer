@@ -367,3 +367,6 @@
 [submodule "Easy/2bdbf45ab7f728422be9a368245f5ad5"]
 	path = Easy/challenge-168
 	url = https://gist.github.com/2bdbf45ab7f728422be9a368245f5ad5.git
+[submodule "Easy/fe6c779433460aa512b9e20e6fc1750e"]
+	path = Easy/challenge-169
+	url = https://gist.github.com/fe6c779433460aa512b9e20e6fc1750e.git
