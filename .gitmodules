@@ -451,3 +451,6 @@
 [submodule "Easy/b17abcb741123117e925994ac51c3318"]
 	path = Easy/challenge-238
 	url = https://gist.github.com/b17abcb741123117e925994ac51c3318.git
+[submodule "Easy/c8fc4809da4334c5f90beadba3f049e2"]
+	path = Easy/challenge-242
+	url = https://gist.github.com/c8fc4809da4334c5f90beadba3f049e2.git
