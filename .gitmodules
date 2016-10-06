@@ -484,3 +484,6 @@
 [submodule "Intermediate/5f6133808ff04c19379feccb90bc7d1a"]
 	path = Intermediate/challenge-3
 	url = https://gist.github.com/5f6133808ff04c19379feccb90bc7d1a.git
+[submodule "Intermediate/e354aa52dc23d1a25b800de7023af2f9"]
+	path = Intermediate/challenge-4
+	url = https://gist.github.com/e354aa52dc23d1a25b800de7023af2f9.git
