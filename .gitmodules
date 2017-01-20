@@ -613,3 +613,6 @@
 [submodule "Intermediate/challenge-85"]
 	path = Intermediate/challenge-85
 	url = https://gist.github.com/a705d3706e4cbd5b8650599dd686be67.git
+[submodule "Intermediate/challenge-86"]
+	path = Intermediate/challenge-86
+	url = https://gist.github.com/86e4de872958841f82e7391e4c9c8cd8.git
